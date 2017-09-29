@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.3-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.2+dfsg1-stable)
 
   (general
     (links 52)
     (no_connects 0)
-    (area 133.35 83.025 189.765558 121.920001)
+    (area 127.067457 83.002 189.915558 123.190001)
     (thickness 1.6)
     (drawings 7)
     (tracks 27)
@@ -777,7 +777,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB773) (tstamp 59BCB67C)
-    (at 158.115 115.57)
+    (at 158.115 116.078)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -789,7 +789,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB768) (tstamp 59BCB682)
-    (at 158.115 114.3)
+    (at 158.115 114.808)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -801,7 +801,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB756) (tstamp 59BCB687)
-    (at 158.115 113.03)
+    (at 158.115 113.538)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -981,7 +981,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB764) (tstamp 59BCB6E2)
-    (at 159.385 113.03)
+    (at 159.385 113.538)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -993,7 +993,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB76F) (tstamp 59BCB6E7)
-    (at 159.385 114.3)
+    (at 159.385 114.808)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1005,7 +1005,7 @@
   )
 
   (module footprints:via-0.7mm (layer F.Cu) (tedit 59BCB778) (tstamp 59BCB6EC)
-    (at 159.385 115.57)
+    (at 159.385 116.078)
     (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
