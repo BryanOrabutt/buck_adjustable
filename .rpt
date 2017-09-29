@@ -1,8 +1,11 @@
-** Drc report for C:\Users\Bryan Orabutt\Documents\KiCad\buck_adjustable\buck.kicad_pcb **
+** Drc report for C:\Users\Bryan Orabutt\Documents\GitHub\buck_adjustable\buck.kicad_pcb **
 ** Created on  **
 
 ** Found 0 DRC errors **
 
-** Found 0 unconnected pads **
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (6.4750 in,4.5500 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of ADJ net +5V
+    @ (6.0508 in,4.5000 in): Pad 1 on F.Cu, Non-copper of C4
 
 ** End of Report **
