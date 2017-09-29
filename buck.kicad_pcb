@@ -3,7 +3,7 @@
   (general
     (links 52)
     (no_connects 0)
-    (area 136.449999 88.824999 178.510001 118.185001)
+    (area 133.35 83.025 189.765558 121.920001)
     (thickness 1.6)
     (drawings 7)
     (tracks 28)
@@ -1291,7 +1291,7 @@
   )
 
   (module Symbols:KiCad-Logo2_6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 59BD8EFA)
-    (at 156.845 111.76 180)
+    (at 151.384 113.284 180)
     (descr "KiCad Logo")
     (tags "Logo KiCad")
     (attr virtual)
